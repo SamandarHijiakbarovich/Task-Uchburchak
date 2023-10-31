@@ -1,0 +1,15 @@
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\bin\Debug\net7.0\TaskUchburchakCount.exe
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\bin\Debug\net7.0\TaskUchburchakCount.deps.json
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\bin\Debug\net7.0\TaskUchburchakCount.runtimeconfig.json
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\bin\Debug\net7.0\TaskUchburchakCount.dll
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\bin\Debug\net7.0\TaskUchburchakCount.pdb
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\TaskUchburchakCount.csproj.AssemblyReference.cache
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\TaskUchburchakCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\TaskUchburchakCount.AssemblyInfoInputs.cache
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\TaskUchburchakCount.AssemblyInfo.cs
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\TaskUchburchakCount.csproj.CoreCompileInputs.cache
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\TaskUchburchakCount.dll
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\refint\TaskUchburchakCount.dll
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\TaskUchburchakCount.pdb
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\TaskUchburchakCount.genruntimeconfig.cache
+D:\C#\TaskUchburchakCount\TaskUchburchakCount\obj\Debug\net7.0\ref\TaskUchburchakCount.dll

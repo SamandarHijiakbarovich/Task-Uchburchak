@@ -1,0 +1,15 @@
+D:\C#\TaskUchburchakCount\Variant2\bin\Debug\net7.0\Variant2.exe
+D:\C#\TaskUchburchakCount\Variant2\bin\Debug\net7.0\Variant2.deps.json
+D:\C#\TaskUchburchakCount\Variant2\bin\Debug\net7.0\Variant2.runtimeconfig.json
+D:\C#\TaskUchburchakCount\Variant2\bin\Debug\net7.0\Variant2.dll
+D:\C#\TaskUchburchakCount\Variant2\bin\Debug\net7.0\Variant2.pdb
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\Variant2.csproj.AssemblyReference.cache
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\Variant2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\Variant2.AssemblyInfoInputs.cache
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\Variant2.AssemblyInfo.cs
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\Variant2.csproj.CoreCompileInputs.cache
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\Variant2.dll
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\refint\Variant2.dll
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\Variant2.pdb
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\Variant2.genruntimeconfig.cache
+D:\C#\TaskUchburchakCount\Variant2\obj\Debug\net7.0\ref\Variant2.dll
